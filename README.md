@@ -9,4 +9,19 @@
    -server: The machine that hosts website and sends response.
 # HTML
 -Hyper Text Markup Language
--
+-Hypertext: Text with a link (hyperlink)
+
+1. Text elements
+-h1 to h6
+-strong
+-em
+-sub
+-sup
+-br
+-hr
+-b
+
+2. Lists
+-ol: Ordered lists
+-ul: Unordered Lists
+-li: List items
