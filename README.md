@@ -25,3 +25,15 @@
 -ol: Ordered lists
 -ul: Unordered Lists
 -li: List items
+
+3. Links & Media
+-a
+-img
+-video
+-iframe
+
+4. Table
+-table
+-tr
+-th
+-td
