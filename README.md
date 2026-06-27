@@ -37,3 +37,13 @@
 -tr
 -th
 -td
+-thead
+-tbody
+
+5. Block/Inline elements
+-Block:h1- h6, p, div, li
+-Inline:a, span,img, video
+
+6.Semantic
+-All HTML elements should be in lowercase
+-Add 'alt' text in images
