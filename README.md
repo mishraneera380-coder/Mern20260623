@@ -47,3 +47,4 @@
 6.Semantic
 -All HTML elements should be in lowercase
 -Add 'alt' text in images
+-HTML file naming: kebab-case: e.g. hello-world
