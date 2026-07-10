@@ -48,3 +48,14 @@
 -All HTML elements should be in lowercase
 -Add 'alt' text in images
 -HTML file naming: kebab-case: e.g. hello-world
+
+7. Form
+-input: text, numbers, email, tel, checkbox, radio, file, color, date, time, range
+-form
+-select
+-option
+-textarea
+
+## CSS
+-Cascading StyleSheet
+
