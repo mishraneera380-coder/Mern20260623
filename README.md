@@ -58,4 +58,32 @@
 
 ## CSS
 -Cascading StyleSheet
+-Web page styling like color, fonts, positioning, spacing
+
+**Syntax**
+<selector>{
+  property: value;
+  ....
+}
+
+For e.g;
+h1{
+  ....
+}
+
+.class-name{
+  ....
+}
+
+#id-name{
+  ....
+}
+
+
+**Selector**
+-Element: h1,p,span :Lowest Priority
+-Class :Element > Class priority < Id: Recommended for CSS(.class-name)
+-Id : Highest Priority
+
+
 
