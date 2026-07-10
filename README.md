@@ -86,4 +86,8 @@ h1{
 -Id : Highest Priority
 
 
+**Class Vs Id**
+-class should be used for CSS, Id should be used for JS
+-class name can be reused multiple times, Id must be unique
+
 
