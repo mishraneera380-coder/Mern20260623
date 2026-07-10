@@ -1,0 +1,11 @@
+span{
+    font-weight: bold 200;
+    background-color: rgb(211, 211, 223);
+}
+
+.contact{
+    color:rgb(13, 13, 13);
+    background-color: rgb(241, 241, 241);
+    font-weight: 100;
+    text-decoration: underline;
+}
