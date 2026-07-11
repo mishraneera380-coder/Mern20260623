@@ -16,6 +16,7 @@ span{
     background-color: bisque;
     font-weight: 200;
     font-size: larger;
+    text-decoration: underline;
 }
 
 a{
