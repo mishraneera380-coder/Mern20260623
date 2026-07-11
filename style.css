@@ -9,3 +9,10 @@ span{
     font-weight: 100;
     text-decoration: underline;
 }
+
+.syntax{
+    color:blueviolet;
+    background-color: bisque;
+    font-weight: 200;
+    font-size: larger;
+}
