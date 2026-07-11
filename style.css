@@ -1,6 +1,7 @@
 span{
     font-weight: bold 200;
     background-color: rgb(211, 211, 223);
+    text-decoration: none;
 }
 
 .contact{
@@ -16,3 +17,8 @@ span{
     font-weight: 200;
     font-size: larger;
 }
+
+a{
+    text-decoration: aqua;
+}
+
