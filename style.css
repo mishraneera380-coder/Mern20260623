@@ -42,9 +42,20 @@ h1{
 
 .box{
     height: 100px;
-    \width: 200px;
+    width: 200px;
     background: #b1d3e8;
     margin: 20px;
     border:12px solid;
     padding:12px;
+}
+
+.Container{
+    height:100px;
+    width: 100%;
+    background:#396f93;
+    text-shadow: 2px 3px 4px #011122;
+    margin:20px;
+    border:10px;
+    padding:12px;
+
 }
