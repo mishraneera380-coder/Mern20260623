@@ -23,3 +23,28 @@ a{
     text-decoration: aqua;
 }
 
+.title{
+    color:rgb(232, 221, 211);
+    color:#396f93;
+    background-color: #b1d3e8;
+    text-align: center;
+    text-decoration: underline dotted;
+}
+
+h1{
+    text-transform: uppercase;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+    text-shadow: 3px 5px 6px #396f93;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.box{
+    height: 100px;
+    \width: 200px;
+    background: #b1d3e8;
+    margin: 20px;
+    border:12px solid;
+    padding:12px;
+}
