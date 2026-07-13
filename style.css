@@ -30,6 +30,11 @@ a{
     text-decoration: underline dotted;
 }
 
+.title:hover{
+    color: #000000;
+
+}
+
 h1{
     text-transform: uppercase;
     word-spacing: 10px;
@@ -126,4 +131,8 @@ nav ul{
 
 .list{
     list-style:decimal-leading-zero;
+}
+
+.list li:nth-child(3){
+    color:red;
 }
