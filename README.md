@@ -101,4 +101,8 @@ h1{
 3. Font
 4. Box-model : margin, padding, border
 5. Display
+6. Flex
+7. List
+8. Pseudo-class
+9. Units
 
