@@ -13,7 +13,6 @@ span{
 
 .syntax{
     color:blueviolet;
-    background-color: rgb(239, 206, 166);
     font-weight: 200;
     font-size: larger;
     text-decoration: underline;
@@ -68,5 +67,50 @@ h1{
     margin:10px;
     padding:12px;
     border:12px;
+
+}
+
+.section{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+
+}
+
+.div1{
+    height:150px;
+    width: 175px;px;
+    background-color: #b1d3e8;
+    margin:1opx;
+    padding:12px;
+    border:1.5px solid #396f93;
+    
+}
+
+.div2{
+    height:150px;
+    width: 175px;px;
+    background-color: #b1d3e8;
+    margin:1opx;
+    padding:12px;
+    border:1.5px solid #396f93;
+}
+
+.div3{
+    height:150px;
+    width: 175px;px;
+    background-color: #b1d3e8;
+    margin:1opx;
+    padding:12px;
+    border:1.5px solid #396f93;
+}
+
+.h2{
+    text-align: center;
+    text-decoration: double;
+    text-shadow: 1.5px 2px 4px #0a3d5c;
+    font-size:xx-large;
 
 }
