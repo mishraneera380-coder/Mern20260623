@@ -83,9 +83,10 @@ h1{
     height:150px;
     width: 175px;px;
     background-color: #b1d3e8;
-    margin:1opx;
-    padding:12px;
+    column-gap: 1rem;
     border:1.5px solid #396f93;
+    text-align: center;
+
     
 }
 
@@ -93,18 +94,19 @@ h1{
     height:150px;
     width: 175px;px;
     background-color: #b1d3e8;
-    margin:1opx;
-    padding:12px;
+    column-gap: 1rem;
     border:1.5px solid #396f93;
+    text-align: center;
 }
 
 .div3{
     height:150px;
     width: 175px;px;
     background-color: #b1d3e8;
-    margin:1opx;
-    padding:12px;
+    column-gap: 1rem;
     border:1.5px solid #396f93;
+    text-align: center;
+
 }
 
 .h2{
