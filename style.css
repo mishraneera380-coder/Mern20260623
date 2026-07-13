@@ -114,3 +114,10 @@ h1{
     font-size:xx-large;
 
 }
+
+nav ul{
+    display:flex;
+    justify-content: space-evenly;
+    list-style: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
