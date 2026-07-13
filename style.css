@@ -136,3 +136,7 @@ nav ul{
 .list li:nth-child(3){
     color:red;
 }
+
+.input{
+    background-color:grey;
+}
