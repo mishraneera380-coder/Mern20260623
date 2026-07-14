@@ -27,7 +27,7 @@ a{
     color:#396f93;
     background-color: #b1d3e8;
     text-align: center;
-    text-decoration: underline dotted;
+    text-decoration:wavy;
 }
 
 .title:hover{
@@ -124,6 +124,12 @@ h1{
     text-decoration: double;
     text-shadow: 1.5px 2px 4px #0a3d5c;
     font-size:xx-large;
+
+}
+
+.h2:hover{
+   color: #161d3b;
+
 
 }
 
