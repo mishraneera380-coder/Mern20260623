@@ -27,7 +27,7 @@ a{
     color:#396f93;
     background-color: #b1d3e8;
     text-align: center;
-    text-decoration:wavy;
+    text-decoration:underline;
 }
 
 .title:hover{
