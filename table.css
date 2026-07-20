@@ -1,0 +1,25 @@
+table{
+    width:100%;
+    border:1px solid #455353;
+    border-collapse:collapse;
+
+}
+
+th{
+    border:1px solid #455353;
+    padding:0.25rem 0.85rem;
+
+}
+td{
+    border: 1px solid #455353;
+    padding:0.25rem 0.85rem;
+
+}
+
+tbody tr:first-child{
+    background-color: antiquewhite;
+}
+
+tbody tr:last-child{
+    background-color: aquamarine;
+}
