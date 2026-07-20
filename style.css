@@ -170,3 +170,17 @@ nav ul{
     width:100%;
     background-color: #be4343;
 }
+/* overflow properties */
+.overflow-box {
+   border:1px solid;
+   height:100px;
+   width:50%;
+   overflow:auto;  
+
+}
+
+.overflow-box p{
+    color:#011122;
+    
+
+}
