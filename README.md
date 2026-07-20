@@ -106,4 +106,13 @@ h1{
 8. Pseudo-class
 9. Units
 10. Overflow
-
+11. Table
+.................
+12. Form
+13. Position
+14. Grid
+15. Icon
+16. Background-image
+17. Responsive design
+18. transform
+19. Animation
