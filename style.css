@@ -155,7 +155,8 @@ nav ul{
 .input{
     background-color:grey;
 }
-
+/* units:px(pixel), em(relative to parent),rem(relative to root), uh(viewing height), vw(Viewing width), in(inch), cm */
 .units{
     color:blueviolet;
+    font: size 4rem;
 }
