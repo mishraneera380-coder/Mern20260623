@@ -159,9 +159,14 @@ nav ul{
 .units{
     color:blueviolet;
     font-size:1.5em;
+    height:50vh;
+    background-color: aliceblue;
+    
 }
 
-.unit-box{
+.units-box{
     color:#396f93;
     font-size:20px;
+    width:100%;
+    background-color: #be4343;
 }
