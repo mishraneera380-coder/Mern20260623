@@ -97,7 +97,7 @@ h1{
 
 #### CSS Properties
 1. Color , background
-2. Text
+2. Texts
 3. Font
 4. Box-model : margin, padding, border
 5. Display
