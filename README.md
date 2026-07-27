@@ -109,7 +109,7 @@ h1{
 11. Table
 ................
 12. Form
-13. Positions
+13. Position
 14. Grid
 15. Icons
 16. Background-image
