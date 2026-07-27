@@ -111,7 +111,7 @@ h1{
 12. Form
 13. Positions
 14. Grid
-15. Icon
+15. Icons
 16. Background-image
 17. Responsive design
 18. transform
