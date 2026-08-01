@@ -105,7 +105,7 @@ h1{
 7. List
 8. Pseudo-class
 9. Units
-10. Overflows
+10. Overflow
 11. Table
 ................
 12. Form
