@@ -116,3 +116,13 @@ h1{
 17. Responsive design
 18. transform
 19. Animation
+20. Variables
+
+##CV
+- Image
+- Name(heading)
+- Phone, email
+- Skills (list)
+- Education (table)
+- Hobby (flex)
+- Contact form
