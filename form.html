@@ -1,22 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>
-            Form HTML
-        </title>
-        <style>
-            input type {
-                border-collapse: collapse;
-            }
-
-                text,
-                email,
-                password{
-                    border: 2px solid beige;
-                }
-            
-
-        </style>
+        <title>Form HTML</title>
+        <link rel="stylesheet" href="form.css">
+        
     </head>
     <body>
         <form action="">
@@ -27,7 +14,7 @@
            <input type="text" id="Name" required placeholder="Your full name">
         
             </div>
-            <p></p>
+            
             <div>
                 <label for="Email"> Email </label>
             <input type="email" id="Email" required placeholder="Alex123@gmail.com" requireed
@@ -35,23 +22,23 @@
 
             </div>
             
-            <p></p>
+            
             <div>
                 <label for="password">Password</label>
                             <input type="password" id="Password " required>
 
             </div>
+            
 
 
 
-            <p></p>
             <div>
                 <label for="Number ">Number</label>
                             <input type="number" id="Number"  name=Number value="+977">
 
             </div>
             
-            <p></p> 
+            
             <div>
                 <label for="Date ">Date</label>
                             <input type="date" id="Date ">
@@ -59,7 +46,7 @@
 
             </div>
 
-            <p></p>
+            
             <div>
 
                 <label for="time">Time</label>
@@ -67,21 +54,21 @@
 
             </div>
             <p></p>
-            Date Time:<p></p><input type="date time">
+            Date Time:<input type="date time">
 
             <br>
             <label for ="file">File</label><br>
             <input type="file" name="file" accept=".jpeg, .png, .pdf, .jpg"><br>
 
-            Color:<p></p><input type="color"> <p></p>
-            Range:<p></p> <input type="range"><p></p>
+            Color:<input type="color"> 
+            Range: <input type="range">
             Female:<input type="radio" name="Gender">
             Male:<input type="radio" name="Gender">
-            Others:<input type="radio" name="Gender"><p></p>
+            Others:<input type="radio" name="Gender">
             B.Sc.CSIT:<input type="checkbox" name="Faculty">
             BCA:<input type="checkbox" name="Faculty">
-            BBA:<input type="checkbox" name="Faculty"><p></p>
-            <br>
+            BBA:<input type="checkbox" name="Faculty">
+            
             Select:<select name="" id="">
                 <option value="B.sc.CSIT">B.sc.CSIT</option>
                 <option value="BCA">BCA</option>
@@ -92,9 +79,9 @@
 
             
             <hr>
-            <right>Submit:<p></p> <input type="submit"></right>
+            <right>Submit: <input type="submit"></right>
             <p>
-                text area:<p></p><textarea name="" id=""></textarea>
+                text area:<textarea name="" id=""></textarea>
             </p>
         
         </form>
