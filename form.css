@@ -14,3 +14,9 @@ input{
     border: 1px solid #adadad;
 
 }
+label{
+    font-family: sans-serif;
+    color:#4c4d4f;
+    margin-left: 0.25rem;
+    
+}
