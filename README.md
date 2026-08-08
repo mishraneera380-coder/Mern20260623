@@ -12,7 +12,7 @@
 -Hypertext: Text with a link (hyperlink)
 
 1. Text elements
--h1 to h6
+-h1 to h6 
 -strong
 -em
 -sub
