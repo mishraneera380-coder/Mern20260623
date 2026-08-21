@@ -6,12 +6,55 @@
 
 .gridbox{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: repeat(4,1fr);
     gap:1rem;
+    column-gap: 1.9rem; 
+    row-gap: 0.9rem;
+    padding: 1.5rem;
 }
 
 .gridbox div{
     background-color: cadetblue;
     border: 1px solid black;
+    
+}
+
+.item1{
+    grid-area:item1 ;
+    
+}
+.item2{
+    grid-area:item2 ;
+    
+}
+.item3{
+    grid-area:item3 ;
+    
+}
+.item4{
+    grid-area:item4 ;
+    
+}
+.item5{
+    grid-area:item5 ;
+    
+}
+.item6{
+    grid-area:item6 ;
+    
+}
+.item7{
+    grid-area:item7 ;
+    
+}
+.item8{
+    grid-area:item8 ;
+    
+}
+.item9{
+    grid-area:item9;
+    
+}.item10{
+    grid-area:item10 ;
     
 }
