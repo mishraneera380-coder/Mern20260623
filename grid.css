@@ -6,11 +6,16 @@
 
 .gridbox{
     display: grid;
-    grid-template-columns: repeat(4,1fr);
+    
     gap:1rem;
     column-gap: 1.9rem; 
     row-gap: 0.9rem;
     padding: 1.5rem;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-areas:
+     "item3 item5 item7 item9"
+     "item2 item1 item6 item4"
+     " item8 item10 . ." ;
 }
 
 .gridbox div{
