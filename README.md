@@ -112,8 +112,8 @@ h1{
 14. Grid
 15. Icon
 16. Background-image
-................
 17. Responsive design
+................
 18. transform
 19. Animation
 20. Variables
