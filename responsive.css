@@ -1,0 +1,37 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header nav ul{
+    display: flex;
+    list-style: none;
+    gap: 1.02rem;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    border: 1px solid black;
+}
+
+@media (min-width:200px) and (max-width:768px) {
+    .container{
+    grid-template-columns: repeat(2, 1fr);
+    }
+    
+}
+
+@media (min-width:769px) and (max-width:1275px) {
+    .container{
+    grid-template-columns: repeat(3, 1fr);
+    }
+    
+}
