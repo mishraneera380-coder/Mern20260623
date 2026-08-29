@@ -10,7 +10,6 @@
     background-size: cover;
     background-position: center;
     display: grid;
-    
     gap:1rem;
     column-gap: 1.9rem; 
     row-gap: 0.9rem;
