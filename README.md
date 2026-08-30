@@ -118,11 +118,10 @@ h1{
 20. Variables
 ................
 
-##CV
-- Image
-- Name(heading)
-- Phone, email
-- Skills (list)
-- Education (table)
-- Hobby (flex)
-- Contact form
+## Tailwind CSS
+- CSS framework
+- Used for building UI rapidly
+- Instead of writing CSS code, we use predefined utility classes directly in HTML
+- Highly customizable, works in dark mode, Just in time(JIT) compiler for faster builds
+- 
+
